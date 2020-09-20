@@ -1,0 +1,12 @@
+{
+  "name": "express-cluster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Leandro Damasceno",
+  "license": "ISC"
+}
