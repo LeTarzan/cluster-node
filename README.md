@@ -1,8 +1,8 @@
-# express-cluster
+# cluster-node
 
-Exemplo de como clusterizar um serviço/api Node.js
+Example how to cluster a service/api NodeJS
 
-Para iniciar 
+To initialize:
 
 ```sh
 $ npm start
